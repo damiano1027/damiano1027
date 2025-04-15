@@ -1,16 +1,13 @@
-## Hi there 👋
+### Education
+- 한국기술교육대학교(Koreatech) 컴퓨터공학부 졸업 (2025.02)
+ 
+### Certification
+- 정보처리기사 (2024.06)
 
-<!--
-**damiano1027/damiano1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Career
+- **[진학사](https://www.jinhaksa.co.kr/)** 어플라이사업본부 솔루션사업부
+  - 인턴 (2024.07 ~ 2024.12)
+  - Program Developer (2025.01 ~ 현재)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=damiano1027)](https://solved.ac/damiano1027/)
