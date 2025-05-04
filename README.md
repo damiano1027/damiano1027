@@ -1,14 +1,5 @@
-### Education
-- 대전고등학교 졸업 (2016.03 ~ 2019.02)
-- 한국기술교육대학교(Koreatech) 컴퓨터공학부 졸업 (2019.02 ~ 2025.02)
- 
-### Certification
-- 정보처리기사
+#### Career
+- **[진학사](https://www.jinhaksa.co.kr/)** 어플라이사업본부 솔루션사업부 Developer (2025.01 ~)
 
-### Career
-- **[진학사](https://www.jinhaksa.co.kr/)** 어플라이사업본부 솔루션사업부
-  - 인턴 (2024.07 ~ 2024.12)
-  - Program Developer (2025.01 ~ 현재)
-
-### BOJ
+#### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=damiano1027)](https://solved.ac/damiano1027/)
